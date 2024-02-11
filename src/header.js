@@ -26,10 +26,10 @@ export default function Header() {
               </a>
             </Stack>
             <Stack>
-              <a class="dropdown-item" href="/#">
+              <a class="giysiler" href="/#">
                 Action
               </a>
-              <a class="dropdown-item" href="/#">
+              <a class="ayakkabılar" href="/#">
                 Another action
               </a>
               <a class="dropdown-item" href="/#">
